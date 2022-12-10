@@ -64,7 +64,7 @@ const Weather = () => {
         fallback={
           <img
             src='https://acegif.com/wp-content/uploads/loading-7.gif'
-            class='w-full'
+            class='max-w-[600px] mx-auto'
           />
         }>
         <form
